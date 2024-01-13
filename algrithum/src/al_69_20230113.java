@@ -4,7 +4,7 @@
  */
 package src;
 
-public class al_172_20230113 {
+public class al_69_20230113 {
     //给你一个非负整数 x ，计算并返回 x 的 算术平方根 。
     public int mySqrt(int x) {
         for(long i=0;i<=x;i++){
