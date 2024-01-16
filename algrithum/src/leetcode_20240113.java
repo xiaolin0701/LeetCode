@@ -1,8 +1,6 @@
 package src;
 
-import java.math.BigInteger;
-
-public class al_20240113 {
+public class leetcode_20240113 {
     //给定一个整数 n ，返回 n! 结果中尾随零的数量。
     public static int trailingZeroes(int n) {
         int ans = 0;
