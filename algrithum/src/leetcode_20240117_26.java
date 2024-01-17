@@ -3,7 +3,7 @@ package src;
  *@Author ylwang
  *@Date   2024/1/17
  */
-public class leetcode_20230117_26 {
+public class leetcode_20240117_26 {
     /*
      *给你一个 非严格递增排列 的数组 nums ，请你 原地 删除重复出现的元素，
      *使每个元素 只出现一次 ，返回删除后数组的新长度。元素的 相对顺序 应该保持 一致 。

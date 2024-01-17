@@ -4,7 +4,7 @@ package src;
  *@Author ylwang
  *@Date   2024/1/17
  */
-public class leetcode_20230117_80 {
+public class leetcode_20240117_80 {
     /*
      *给你一个有序数组 nums ，
      *请你 原地 删除重复出现的元素，使得出现次数超过两次的元素只出现两次 ，返回删除后数组的新长度。

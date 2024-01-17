@@ -1,9 +1,8 @@
 package src;
 
 import java.util.Scanner;
-import java.util.stream.IntStream;
 
-public class acwing_5384_20230116 {
+public class acwing_5384_20240116 {
     //给定四个正整数 a,b,c,d
     //，请你计算并输出 a×b+c×d
     // 的值。

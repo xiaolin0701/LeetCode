@@ -4,7 +4,7 @@ package src;
  *@Author ylwang
  *@Date   2024/1/13
  */
-public class leetcode_50_20230113 {
+public class leetcode_50_20240113 {
     //实现 pow(x, n) ，即计算 x 的整数 n 次幂函数。
     public static double myPow(double x, int n) {
         /*
