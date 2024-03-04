@@ -15,7 +15,7 @@ import java.util.*;
 //返回重新映射按键后输入 word 所需的 最少 按键次数。
 //
 //下面给出了一种电话键盘上字母到按键的映射作为示例。注意 1，*，# 和 0 不 对应任何字母。
-public class Leetcode_20230125_3014_weeklyMatch {
+public class Leetcode_2024r0125_3014_weeklyMatch {
     public static int minimumPushes(String word) {
         //尝试贪心算法求解，先构建权值map表
         HashMap<Character,Integer> hashMap=new HashMap<>();
